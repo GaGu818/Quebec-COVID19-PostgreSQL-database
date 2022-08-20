@@ -1,6 +1,6 @@
 # Quebec-COVID19-PostgreSQL-database
 
-This is my comp421 project, we will desgined a Quebec covid 19 vaccination management database and application. 
+This is my comp421 project. I desgined a Quebec covid 19 vaccination management database and application. 
 
 Project 1: database design, requirement analysis, ER diagram, and relation schema for a real world domain. 
 
